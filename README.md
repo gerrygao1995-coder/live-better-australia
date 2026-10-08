@@ -4,13 +4,25 @@
 
 ![Live Better Australia — 720 actions, 40 chapters, one useful place to start](banner.svg)
 
-**The Australian Life Playbook: 720 practical actions for money, health, housing, work, family and everything in between.**
+**Know your rights. Cut everyday costs. Find your next step in Australian life.**
 
 Life admin gets expensive when you have to learn every system the hard way. This free, open guide brings useful next steps together — in Australian English, for people living ordinary lives across Australia.
 
-**[Read online](https://gerrygao1995-coder.github.io/live-better-australia/) · [Start here](START-HERE.md) · [Find your situation](SCENARIOS.md) · [Browse all 40 chapters](#the-full-playbook) · [Download the project](https://github.com/gerrygao1995-coder/live-better-australia/archive/refs/heads/main.zip)**
+**[Read online](https://gerrygao1995-coder.github.io/live-better-australia/) · [Start here](https://gerrygao1995-coder.github.io/live-better-australia/start-here.html) · [Find your situation](SCENARIOS.md) · [Browse all 40 chapters](#the-full-playbook) · [Download the project](https://github.com/gerrygao1995-coder/live-better-australia/archive/refs/heads/main.zip)**
 
-Edition 1.0 · Reviewed **9 October 2026** · Content **CC BY 4.0** · Reader and build code **MIT**
+Edition 1.1 · Reviewed **9 October 2026** · Content **CC BY 4.0** · Reader and build code **MIT**
+
+## Start with something you can use today
+
+**[20 useful things to know in Australia](https://gerrygao1995-coder.github.io/live-better-australia/20-useful-things.html)** — a selected introduction to Medicare, super, bills, consumer rights and more, with sources and scope notes.
+
+| What is happening? | A short, shareable checklist |
+| --- | --- |
+| Work has changed | [Lost your job in Australia? Start here](https://gerrygao1995-coder.github.io/live-better-australia/lost-your-job.html) |
+| You are moving out | [Renting your first place? Read this before you sign](https://gerrygao1995-coder.github.io/live-better-australia/first-rental.html) |
+| Your family is growing | [Before your baby arrives: the Australian admin checklist](https://gerrygao1995-coder.github.io/live-better-australia/before-baby-arrives.html) |
+
+Each checklist has official links, browser-local ticks, a shareable URL and a print / save-PDF layout. Then explore the complete **720-action, 40-chapter** guide at your own pace.
 
 ## What makes this useful
 
@@ -42,7 +54,7 @@ Edition 1.0 · Reviewed **9 October 2026** · Content **CC BY 4.0** · Reader an
 3. Search, filter by chapter or evidence basis, and select **Save action** to build a shortlist. Saved action IDs stay in that browser; browser storage settings may prevent persistence.
 4. Choose **My saved actions → Print matching actions** to print or save a PDF of your shortlist.
 
-The HTML file is self-contained and can also be shared on its own. Keep the complete folder if you want its supporting Markdown pages offline.
+The HTML file is self-contained and can also be shared on its own. Keep the complete folder for the Start here page, checklists, selected 20, supporting web pages and Markdown chapters offline.
 
 ## The full playbook
 

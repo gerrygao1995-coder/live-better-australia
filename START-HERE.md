@@ -1,5 +1,9 @@
 # One useful action is enough to start
 
+**[Open the designed Start here page](https://gerrygao1995-coder.github.io/live-better-australia/start-here.html)** · [The useful 20](https://gerrygao1995-coder.github.io/live-better-australia/20-useful-things.html)
+
+If you downloaded this project, open `start-here.html` in your browser.
+
 A guide this large should make life easier to navigate. Use the parts that fit your life; you do not need to turn it into a scorecard.
 
 ## If you have ten minutes

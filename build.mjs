@@ -77,3 +77,5 @@ window.addEventListener('hashchange',route);filter();route();
 </script></body></html>`;
 await writeFile(path.join(root,'index.html'),html);
 console.log(`Built ${guide.chapters.length} chapters, ${ids.size} unique actions, ${sources.size} source URLs and offline reader.`);
+const { buildSite } = await import('./build-site.mjs');
+await buildSite(guide, html);

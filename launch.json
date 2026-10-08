@@ -1,0 +1,471 @@
+{
+  "version": "1.1.0",
+  "reviewed": "2026-10-09",
+  "featured": [
+    {
+      "id": "AU-0075",
+      "title": "Find the energy comparison service for your state",
+      "why": "Use the right official tool and your actual usage; retailer choice and comparison coverage vary across Australia."
+    },
+    {
+      "id": "AU-0038",
+      "title": "The Medicare registration couples can miss",
+      "why": "Sharing a Medicare card does not automatically combine your family's eligible Safety Net costs."
+    },
+    {
+      "id": "AU-0235",
+      "title": "Your rights can outlast the product warranty",
+      "why": "Australian consumer guarantees may still apply after a warranty expires; the fault determines the available remedy."
+    },
+    {
+      "id": "AU-0128",
+      "title": "Check your cover before merging super accounts",
+      "why": "Closing a super account can end insurance or benefits you may struggle to replace."
+    },
+    {
+      "id": "AU-0094",
+      "title": "A bond dispute can have a short reply window",
+      "why": "Read a bond claim promptly and follow your own state's process before agreeing to deductions."
+    },
+    {
+      "id": "AU-0168",
+      "title": "Check your right to disconnect after work",
+      "why": "National-system employees can refuse after-hours contact unless unreasonable; the job and circumstances matter."
+    },
+    {
+      "id": "AU-0132",
+      "title": "Ambulance cover changes across state borders",
+      "why": "Medicare does not cover ambulance services; residency, interstate travel and policy terms can affect your cover."
+    },
+    {
+      "id": "AU-0148",
+      "title": "Start with free help for debt",
+      "why": "The National Debt Helpline connects people in financial difficulty with free, confidential financial counselling."
+    },
+    {
+      "id": "AU-0171",
+      "title": "Check whether that trial shift should be paid",
+      "why": "Fair Work limits unpaid trials to a necessary, supervised skills demonstration; an ordinary shift is not automatically free."
+    },
+    {
+      "id": "AU-0202",
+      "title": "Compare childcare fees after the subsidy",
+      "why": "The 3 Day Guarantee is subsidised care for eligible families; gap fees and available places still matter."
+    },
+    {
+      "id": "AU-0201",
+      "title": "Plan parental pay around your child's arrival date",
+      "why": "The birth or adoption date affects available Parental Leave Pay days; eligibility and sharing rules also apply."
+    },
+    {
+      "id": "AU-0181",
+      "title": "Check your state's Free TAFE options",
+      "why": "Selected courses and students can receive tuition support, while materials, placements and other costs still need checking."
+    },
+    {
+      "id": "AU-0435",
+      "title": "Search the PPSR before buying a used car",
+      "why": "An official VIN search can reveal registered finance and available vehicle-history records before you pay."
+    },
+    {
+      "id": "AU-0437",
+      "title": "CTP and car-damage cover do different jobs",
+      "why": "Compulsory third-party cover should not be assumed to pay for damage to your car or someone else's."
+    },
+    {
+      "id": "AU-0150",
+      "title": "NDIS and DSP need separate eligibility checks",
+      "why": "Disability supports and income support have different rules; approval for one does not establish eligibility for the other."
+    },
+    {
+      "id": "AU-0041",
+      "title": "Ask whether a 60-day prescription suits you",
+      "why": "For eligible medicines and suitable patients, a longer supply may mean fewer pharmacy visits and lower dispensing costs."
+    },
+    {
+      "id": "AU-0510",
+      "title": "Check travel assistance before a medical trip",
+      "why": "State patient travel schemes may help eligible regional patients; check approval and evidence rules before booking."
+    },
+    {
+      "id": "AU-0451",
+      "title": "Check flood and bushfire risk for the exact address",
+      "why": "Local hazard information belongs alongside inspections and insurance quotes when choosing where to live."
+    },
+    {
+      "id": "AU-0019",
+      "title": "Check UV even when the weather feels cool",
+      "why": "Australia's UV forecast can call for sun protection on a cool or cloudy day."
+    },
+    {
+      "id": "AU-0047",
+      "title": "Find your local Medicare Urgent Care Clinic",
+      "why": "Check a local option for urgent, non-life-threatening care; life-threatening emergencies still need 000 or an emergency department."
+    }
+  ],
+  "checklists": [
+    {
+      "slug": "lost-your-job",
+      "title": "Lost your job in Australia? Start here",
+      "kicker": "WORK · RIGHTS · NEXT STEPS",
+      "summary": "Start with deadlines and the next fortnight's essentials. You can work through the rest with help.",
+      "scope": "For employees in Australia. Federal workplace rules below apply to the national system; many state public-sector and council roles, and some WA employers, use state systems. Payment eligibility and claim options depend on your circumstances.",
+      "steps": [
+        {
+          "title": "Check the dismissal deadline today",
+          "text": "If you may challenge the dismissal, contact the Fair Work Commission, your union or a legal service now. National unfair-dismissal applications generally have a 21-day deadline after dismissal takes effect. Eligibility conditions apply; ask about other claims too, rather than ruling yourself out.",
+          "entryIds": [
+            "AU-0166",
+            "AU-0163",
+            "AU-0180"
+          ],
+          "sources": [
+            {
+              "title": "Fair Work Ombudsman — Unfair dismissal",
+              "url": "https://www.fairwork.gov.au/ending-employment/help-with-termination/unfair-dismissal"
+            },
+            {
+              "title": "Fair Work Ombudsman — Which workplace system applies",
+              "url": "https://www.fairwork.gov.au/about-us/workplace-laws/fair-work-system"
+            }
+          ]
+        },
+        {
+          "title": "Keep your own employment records",
+          "text": "Save your contract, payslips, rosters, dismissal letter and a dated account of what happened. Keep records you can lawfully retain somewhere you control. Ask for missing employment records; keep employer-confidential files out of your personal archive.",
+          "entryIds": [
+            "AU-0164",
+            "AU-0179"
+          ],
+          "sources": [
+            {
+              "title": "Fair Work Ombudsman — Record-keeping and pay slips",
+              "url": "https://www.fairwork.gov.au/tools-and-resources/fact-sheets/rights-and-obligations/record-keeping-pay-slips"
+            }
+          ]
+        },
+        {
+          "title": "Ask for an itemised final-pay calculation",
+          "text": "Check wages owing and any accrued annual leave. Ask whether notice pay, redundancy pay or long service leave applies; these are not universal entitlements. Confirm the payment deadline under your award, agreement and applicable law instead of assuming one final-pay deadline covers everyone.",
+          "entryIds": [
+            "AU-0179",
+            "AU-0163"
+          ],
+          "sources": [
+            {
+              "title": "Fair Work Ombudsman — Final pay",
+              "url": "https://www.fairwork.gov.au/ending-employment/final-pay"
+            }
+          ]
+        },
+        {
+          "title": "Check income support and possible waiting periods",
+          "text": "Check which payment fits your age and circumstances. JobSeeker has income, assets and residence rules; waiting periods can apply, including after leave or redundancy payouts. Gather requested evidence and keep claim references. Budget around confirmed money, not an unconfirmed approval or payment date.",
+          "entryIds": [
+            "AU-0145"
+          ],
+          "sources": [
+            {
+              "title": "Services Australia — JobSeeker Payment",
+              "url": "https://www.servicesaustralia.gov.au/jobseeker-payment"
+            },
+            {
+              "title": "Services Australia — When you will get your first JobSeeker Payment",
+              "url": "https://www.servicesaustralia.gov.au/when-youll-get-your-first-jobseeker-payment?context=51411"
+            }
+          ]
+        },
+        {
+          "title": "Write a two-week essentials plan",
+          "text": "List available cash, confirmed income, rent or mortgage, food, medicines, utilities and necessary transport. Mark the next due dates. Identify the first shortfall so you can ask for specific help before making new commitments.",
+          "entryIds": [
+            "AU-0707",
+            "AU-0152"
+          ],
+          "sources": []
+        },
+        {
+          "title": "Ask for hardship help before bills pile up",
+          "text": "Contact providers about affordable payment arrangements and keep written records. For free, confidential financial counselling, call the National Debt Helpline on 1800 007 007. Bring urgent notices and the essentials plan; tell the counsellor which payment is due first.",
+          "entryIds": [
+            "AU-0148",
+            "AU-0153"
+          ],
+          "sources": [
+            {
+              "title": "Moneysmart — Financial counselling",
+              "url": "https://moneysmart.gov.au/managing-debt/financial-counselling"
+            }
+          ]
+        },
+        {
+          "title": "Choose the next work step before buying training",
+          "text": "Update one useful CV example, contact a reference or compare a few suitable roles. If retraining would help, check your state's Free TAFE options first: courses, eligibility and places are limited. Confirm materials, placement and living costs before enrolling.",
+          "entryIds": [
+            "AU-0198",
+            "AU-0181",
+            "AU-0191"
+          ],
+          "sources": [
+            {
+              "title": "Department of Employment and Workplace Relations — Free TAFE",
+              "url": "https://www.dewr.gov.au/skills-reform/free-tafe"
+            }
+          ]
+        }
+      ],
+      "closing": "If you only do one thing today, check any dismissal deadline. These are starting steps, not an assessment of your legal claim or payment eligibility. Open the current official source before acting.",
+      "checked": "2026-10-09"
+    },
+    {
+      "slug": "first-rental",
+      "title": "Renting your first place? Read this before you sign",
+      "kicker": "RENTING · BONDS · MOVING IN",
+      "summary": "Use this checklist at the inspection and before paying or signing. Save the move-in steps for when you collect the keys.",
+      "scope": "For people renting in Australia. Tenancy rules are state and territory based; boarding, rooming, student accommodation and other arrangements may use different rules. The NSW example below is labelled and is not a national deadline.",
+      "steps": [
+        {
+          "title": "Find the rules for this address and arrangement",
+          "text": "Find your state or territory tenancy authority. Check which rules cover your accommodation type.",
+          "entryIds": [
+            "AU-0093",
+            "AU-0099"
+          ],
+          "sources": [
+            {
+              "title": "myGov — Signing a rental lease and links for every state and territory",
+              "url": "https://my.gov.au/en/services/living-arrangements/finding-renting-and-buying-a-home/renting-a-home/signing-a-rental-lease"
+            }
+          ]
+        },
+        {
+          "title": "Add the costs beyond the advertised rent",
+          "text": "Write two totals: the cash needed to move in, and the ongoing cost of living there. Include bond, permitted advance rent, moving, utilities, internet and transport. Check whether your budget still works after a quieter work week or an unexpected bill.",
+          "entryIds": [
+            "AU-0091",
+            "AU-0098"
+          ],
+          "sources": []
+        },
+        {
+          "title": "Inspect the home and verify who you are dealing with",
+          "text": "Inspect the home. Independently verify the provider before sending money or identity documents.",
+          "entryIds": [
+            "AU-0091",
+            "AU-0092"
+          ],
+          "sources": [
+            {
+              "title": "myGov — Checks before signing a rental lease",
+              "url": "https://my.gov.au/en/services/living-arrangements/finding-renting-and-buying-a-home/renting-a-home/signing-a-rental-lease"
+            }
+          ]
+        },
+        {
+          "title": "Read the agreement before committing",
+          "text": "Check the names, address, rent, start date, lease length, payment method and extra conditions. Ask what happens if you need to leave early, and have unclear terms checked by a local tenancy service. Keep the agreement and any written repair promises.",
+          "entryIds": [
+            "AU-0091",
+            "AU-0101"
+          ],
+          "sources": [
+            {
+              "title": "Moneysmart — Understanding rental leases",
+              "url": "https://moneysmart.gov.au/student-life-and-money/rental-bonds-and-leases"
+            }
+          ]
+        },
+        {
+          "title": "Check how your bond will be handled",
+          "text": "For NSW, check Rental Bonds Online and keep your payment record. Elsewhere, use the authority you found in step 1. Agree and record each housemate's contribution.",
+          "entryIds": [
+            "AU-0092",
+            "AU-0093",
+            "AU-0094"
+          ],
+          "sources": [
+            {
+              "title": "NSW Government — Rental Bonds Online for tenants (NSW only)",
+              "url": "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/residential-rental-bonds/rental-bonds-online-for-tenants"
+            }
+          ]
+        },
+        {
+          "title": "Put the housemate arrangement in writing",
+          "text": "Agree on rent, bills, bond contributions and what happens when someone leaves. Check whose names are on the lease and obtain local advice about each person's responsibilities. A household spreadsheet or private promise does not by itself change the rental agreement.",
+          "entryIds": [
+            "AU-0097"
+          ],
+          "sources": [
+            {
+              "title": "NSW Government — Sharing a rental property (NSW example)",
+              "url": "https://www.nsw.gov.au/housing-and-construction/rules/sharing-a-residential-rental-property"
+            }
+          ]
+        },
+        {
+          "title": "Plan the move-in evidence now",
+          "text": "Photograph existing damage before unpacking, complete the condition report and keep a copy plus proof of return. Check your local deadline: in NSW, the tenant returns a completed copy within seven days of moving in. Use your own jurisdiction's rule elsewhere.",
+          "entryIds": [
+            "AU-0092"
+          ],
+          "sources": [
+            {
+              "title": "NSW Government — Rental property condition reports (NSW only)",
+              "url": "https://www.nsw.gov.au/housing-and-construction/rules/rental-property-condition-reports"
+            }
+          ]
+        },
+        {
+          "title": "Ask how the property gets its electricity",
+          "text": "Ask whether electricity is supplied through an embedded network, who bills you and what tariffs and fees apply. Check your actual ability to choose another retailer before relying on a comparison quote. Add the confirmed arrangement to your housing budget.",
+          "entryIds": [
+            "AU-0100"
+          ],
+          "sources": [
+            {
+              "title": "Australian Energy Regulator — Embedded network customers",
+              "url": "https://www.aer.gov.au/consumers/understanding-energy/embedded-networks-customers"
+            }
+          ]
+        }
+      ],
+      "closing": "Keep the lease, receipts, photos and correspondence together. Before signing an unclear term or paying an unfamiliar charge, check the current rule with your state or territory tenancy authority or advice service.",
+      "checked": "2026-10-09"
+    },
+    {
+      "slug": "before-baby-arrives",
+      "title": "Before your baby arrives: the Australian admin checklist",
+      "kicker": "FAMILY · LEAVE · MONEY · PAPERWORK",
+      "summary": "Eight practical jobs to organise leave, payments and care costs now, and prepare the paperwork you will finish after birth.",
+      "scope": "For households expecting a baby in Australia. Payment eligibility, workplace entitlements and insurance cover depend on your circumstances; registration processes differ by state and territory. This checklist focuses on administration, costs and timing.",
+      "steps": [
+        {
+          "title": "Get the full maternity-care quote",
+          "text": "Ask the maternity service about booking, referrals and out-of-pocket costs for appointments, tests, birth and follow-up. If using private cover, confirm waiting periods, exclusions and how and when to add your newborn. Save the answers before committing to a care pathway.",
+          "entryIds": [
+            "AU-0344",
+            "AU-0345"
+          ],
+          "sources": [
+            {
+              "title": "Better Health Channel: Paying for pregnancy, birth and newborn care",
+              "url": "https://www.betterhealth.vic.gov.au/health/servicesandsupport/paying-for-pregnancy-birth-and-newborn-care"
+            }
+          ]
+        },
+        {
+          "title": "Put workplace leave dates in the calendar",
+          "text": "Check employer-funded pay and eligibility for unpaid parental leave separately. Under national Fair Work rules, eligible employees generally give 10 weeks’ written notice; continuous leave dates must be confirmed at least four weeks before starting. If the required notice is impossible, notify the employer as soon as possible.",
+          "entryIds": [
+            "AU-0201",
+            "AU-0177"
+          ],
+          "sources": [
+            {
+              "title": "Fair Work Ombudsman: Applying for parental leave",
+              "url": "https://www.fairwork.gov.au/leave/parental-leave/before-parental-leave/applying-for-parental-leave"
+            }
+          ]
+        },
+        {
+          "title": "Check Parental Leave Pay before planning around it",
+          "text": "Check the work, income, residence and caring rules, including each parent's eligibility and any sharing rules. You can submit a claim up to three months before the expected birth. Set up Centrelink through myGov, gather the required details and remember that payment cannot start before birth and proof is required.",
+          "entryIds": [
+            "AU-0201"
+          ],
+          "sources": [
+            {
+              "title": "Services Australia: Who can get Parental Leave Pay",
+              "url": "https://www.servicesaustralia.gov.au/who-can-get-parental-leave-pay?context=64479"
+            },
+            {
+              "title": "Services Australia: How to claim Parental Leave Pay",
+              "url": "https://www.servicesaustralia.gov.au/how-to-claim-parental-leave-pay?context=64479"
+            }
+          ]
+        },
+        {
+          "title": "Make a budget for the leave period",
+          "text": "Map confirmed take-home income against housing, bills, baby essentials and care costs. Keep unapproved payments separate from money you can rely on, and check whether other family payments may apply. Agree who pays shared bills and which purchases can wait.",
+          "entryIds": [
+            "AU-0199",
+            "AU-0201",
+            "AU-0209"
+          ],
+          "sources": [
+            {
+              "title": "Moneysmart: Having a baby",
+              "url": "https://moneysmart.gov.au/family-and-relationships/having-a-baby"
+            }
+          ]
+        },
+        {
+          "title": "Compare childcare places and the actual gap fee",
+          "text": "Ask services about vacancies, waitlists, session fees and your estimated bill after Child Care Subsidy. The 3 Day Guarantee applies to CCS-eligible families; it guarantees subsidised hours, not a place or free care. Plan the CCS claim before care starts, and confirm the provider's enrolment details through Centrelink.",
+          "entryIds": [
+            "AU-0202",
+            "AU-0209"
+          ],
+          "sources": [
+            {
+              "title": "Department of Education: 3 Day Guarantee",
+              "url": "https://www.education.gov.au/early-childhood/providers/child-care-subsidy/3-day-guarantee"
+            },
+            {
+              "title": "Services Australia: Who can get Child Care Subsidy",
+              "url": "https://www.servicesaustralia.gov.au/who-can-get-child-care-subsidy?context=41186"
+            },
+            {
+              "title": "Services Australia: How to claim Child Care Subsidy",
+              "url": "https://www.servicesaustralia.gov.au/how-to-claim-child-care-subsidy?context=41186"
+            }
+          ]
+        },
+        {
+          "title": "Prepare Medicare access; enrol your baby after birth",
+          "text": "Check your Medicare eligibility and online access now. If still on your parents' card, transfer to your own before enrolling your baby. After birth, use the signed Newborn Child Declaration as proof and enrol through the applicable family-payment claim or Medicare process. Babies born overseas, adopted or born through surrogacy have separate instructions.",
+          "entryIds": [
+            "AU-0578",
+            "AU-0345"
+          ],
+          "sources": [
+            {
+              "title": "Services Australia: Enrolling your baby in Medicare",
+              "url": "https://www.servicesaustralia.gov.au/enrolling-your-baby-medicare?context=60092"
+            }
+          ]
+        },
+        {
+          "title": "Save the two separate after-birth tasks",
+          "text": "Bookmark your state or territory birth-registration process: registration is free, while a certificate may cost extra. Separately, finish any pre-birth Centrelink claim with the baby's details and proof of birth. For a pre-birth Parental Leave Pay claim, Services Australia says to provide these within 56 days of the child entering your care.",
+          "entryIds": [
+            "AU-0201"
+          ],
+          "sources": [
+            {
+              "title": "Services Australia: Register the birth of your baby",
+              "url": "https://www.servicesaustralia.gov.au/register-birth-your-baby?context=60001"
+            },
+            {
+              "title": "Services Australia: Parental Leave Pay claiming timeframes",
+              "url": "https://www.servicesaustralia.gov.au/claiming-timeframes-for-parental-leave-pay?context=64479"
+            }
+          ]
+        },
+        {
+          "title": "Assign the practical jobs, with a backup",
+          "text": "Agree who will manage bills, paperwork, meals, transport and any older children's pickups during the first weeks. Keep deadlines and confirmations in one shared plan, and check that helpers have the necessary collection permissions. Share only the information they need; keep passwords private.",
+          "entryIds": [
+            "AU-0357",
+            "AU-0207",
+            "AU-0177"
+          ],
+          "sources": []
+        }
+      ],
+      "closing": "Start with the next deadline, then work through the rest at your own pace. Keep claim receipts and written confirmations; revisit the plan if the birth date, leave or care arrangements change.",
+      "checked": "2026-10-09"
+    }
+  ]
+}

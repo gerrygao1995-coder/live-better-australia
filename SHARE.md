@@ -1,39 +1,39 @@
-# Share something useful
+# Share the page that helps
 
-Share the chapter that matches someone's situation, then let them decide what is useful. Link to the source edition so readers can see updates and context.
+Start with a specific situation. Include your connection to the project, preserve the source links and scope, and use only channels that allow this kind of contribution.
 
-## Short launch post
+These messages are **unsent drafts** for the maintainer. Replace or adapt the wording honestly if you share the project in a different role. No professional endorsement, reader results or savings are claimed.
 
-> Australia is expensive. Learning every system the hard way is, too.
+## Lost a job
+
+> A job ending can mean several different deadlines. I maintain a free Australian life guide, and have put together seven first steps: check dismissal deadlines, keep your records, query final pay, check income support and plan the next fortnight. Official sources and scope notes are included. If you know someone this would help, here's the checklist:
 >
-> Live Better Australia is a free, open life playbook: 720 practical actions across 40 chapters, covering money, health, housing, work, family, digital safety and more.
+> https://gerrygao1995-coder.github.io/live-better-australia/lost-your-job.html
+
+## First rental
+
+> First rental? The rent is only part of the decision. I maintain Live Better Australia and made a checklist for inspections, the agreement, the bond, housemates and move-in evidence. It marks state-specific examples instead of treating one state's deadline as a national rule.
 >
-> Australian English. Local systems. Clear source labels. An offline reader with search and a personal action shortlist.
+> https://gerrygao1995-coder.github.io/live-better-australia/first-rental.html
+
+## Baby admin
+
+> Expecting a baby? I maintain a free Australian life guide and have put the admin jobs in one checklist: care costs, workplace leave, government payments, childcare, Medicare and after-birth paperwork. Eligibility still needs checking, and official links are included.
 >
-> Find one useful thing. Pass it on.
+> https://gerrygao1995-coder.github.io/live-better-australia/before-baby-arrives.html
+
+## A short project introduction
+
+> Australian life comes with a lot of systems to figure out. I maintain Live Better Australia, a free, open guide with practical next steps and sources. Start with 20 useful things to know, or a checklist for losing a job, renting your first place or preparing for a baby. It was prepared with AI assistance and has not had independent professional review; specific corrections are welcome.
 >
-> https://github.com/gerrygao1995-coder/live-better-australia
+> https://gerrygao1995-coder.github.io/live-better-australia/start-here.html
 
-## A shorter version
+## Help it improve
 
-> Spend less. Stress less. Live more. 🇦🇺
->
-> A free Australian life playbook: 720 practical actions, 40 chapters, sources you can inspect. Start with the part of life that's on your mind.
->
-> https://github.com/gerrygao1995-coder/live-better-australia
+- Invite a reader to try one relevant checklist, then ask what was confusing or missing.
+- Ask a relevant practitioner to review specific claims, not to endorse the whole project.
+- Share the useful content and source link; do not organise votes, fake testimonials or repeated cross-posts.
+- Check the current rules of a community before posting. A free resource can still count as self-promotion.
+- Keep attribution when reproducing or adapting text. See [credits and licence](ATTRIBUTION.md).
 
-## A note for a community group
-
-> I thought this might be useful here: Live Better Australia brings together practical next steps for bills, renting, work, healthcare and everyday life. It separates official rules and guidance from editorial suggestions, with links to the original sources. It's free to read and share, and corrections are welcome.
->
-> https://github.com/gerrygao1995-coder/live-better-australia
-
-## Useful ways to share it
-
-- Send a relevant chapter to someone who asked for help with that topic.
-- Share the start-here page with a student, new household or community group.
-- Use a small selection as a discussion prompt at a library, neighbourhood centre or workplace learning session.
-- Share the downloadable reader where an offline copy would be helpful.
-- When reproducing or adapting text, include the credit and licence described in [ATTRIBUTION.md](ATTRIBUTION.md).
-
-The original `share-card.svg` and `banner.svg` are included for promotion. These draft messages are supplied for reuse; the project does not automatically post to any social platform.
+The website has a copy-link button on each checklist and the selected 20, as well as print styles. The included original artwork and social preview can be reused under the code/artwork licence. Sharing is always initiated by a reader; this repository does not automatically post anywhere.
