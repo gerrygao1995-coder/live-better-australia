@@ -8,7 +8,7 @@
 
 Life admin gets expensive when you have to learn every system the hard way. This free, open guide brings useful next steps together — in Australian English, for people living ordinary lives across Australia.
 
-**[Start here](START-HERE.md) · [Find your situation](SCENARIOS.md) · [Browse all 40 chapters](#the-full-playbook) · [Download the project](https://github.com/gerrygao1995-coder/live-better-australia/archive/refs/heads/main.zip)**
+**[Read online](https://gerrygao1995-coder.github.io/live-better-australia/) · [Start here](START-HERE.md) · [Find your situation](SCENARIOS.md) · [Browse all 40 chapters](#the-full-playbook) · [Download the project](https://github.com/gerrygao1995-coder/live-better-australia/archive/refs/heads/main.zip)**
 
 Edition 1.0 · Reviewed **9 October 2026** · Content **CC BY 4.0** · Reader and build code **MIT**
 
