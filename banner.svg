@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="490" viewBox="0 0 1400 490" role="img" aria-labelledby="title desc">
+<title id="title">Live Better Australia</title><desc id="desc">Spend less. Stress less. Live more. 720 actions across 40 chapters. The Australian Life Playbook.</desc>
+<rect width="1400" height="490" rx="18" fill="#153c35"/>
+<circle cx="1230" cy="84" r="220" fill="#245345"/>
+<path d="M895 490Q1100 150 1400 280V490Z" fill="#35624d"/>
+<path d="M1095 490Q1230 305 1400 385V490Z" fill="#db5735"/>
+<text x="62" y="62" font-family="Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="4" fill="#d9e6ce">THE AUSTRALIAN LIFE PLAYBOOK</text>
+<text x="58" y="167" font-family="Arial,sans-serif" font-size="78" font-weight="800" letter-spacing="-3" fill="#fffbed">Spend less. Stress less.</text>
+<text x="58" y="265" font-family="Arial,sans-serif" font-size="91" font-weight="800" letter-spacing="-3" fill="#f2bb85">Live more.</text>
+<text x="63" y="330" font-family="Arial,sans-serif" font-size="26" fill="#e3ebdb">Money · Health · Housing · Work · Family · Everyday life</text>
+<line x1="63" y1="367" x2="885" y2="367" stroke="#6b8978"/>
+<text x="63" y="421" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#fffbed">720 ACTIONS</text><text x="273" y="421" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#fffbed">40 CHAPTERS</text><text x="505" y="421" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#fffbed">FREE TO READ &amp; SHARE</text>
+<circle cx="1155" cy="195" r="115" fill="#e8edda"/>
+<text x="1155" y="169" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="800" fill="#153c35">LIVE BETTER</text><text x="1155" y="211" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="800" fill="#153c35">AUSTRALIA</text><text x="1155" y="246" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#49645c">EDITION 01</text>
+</svg>
